@@ -1,6 +1,9 @@
 h1
 {
-      background: red;
+      background: salmon;
+      color: white;
+      font-weight: 900;
+      font-size: 45px;
 }
 
 .par-1
@@ -8,12 +11,25 @@ h1
       color: orange;
       font-family: Ariel;
       font-weight: bold;
+      font-size: 20px;
 }
 
 .par-2
 {
       border: 5px solid yellow;
       border-radius: 25px;
-      margin-top: 80px;
       padding-left
+}
+.par-3
+{
+      font-style: oblique;
+      text-align: center;
+      font-size: 24px;
+      text-shadow: green 2px 2px 4px;
+}
+.par-4
+{
+      color: DeepPink;
+      font-size: 24px;
+      text-decoration: underline;
 }
